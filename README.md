@@ -5,9 +5,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorthecreative&label=Profile%20views&color=0e75b6&style=flat" alt="victorthecreative" /> </p>
-
-
 **Bio**
 
 - 👷‍♂️ Atualmente trabalhando na [ZAMP](https://irestify.com/) como **Analytics Sênior** no Squad de personalização
