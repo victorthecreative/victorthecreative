@@ -7,11 +7,11 @@
 
 **Bio**
 
-- 👷‍♂️ Atualmente trabalhando na [ZAMP](https://irestify.com/) como **Analytics Sênior** no Squad de personalização
+- 👷‍♂️ **Software engineer**
 
 - 💡 Contribuindo com artigos tecnicos e skills no medium: [Medium](https://medium.com/@victorcoelho./)
 
-- 🔥 Com interesses em **Engenharia de dados** and **Data Science**
+- 🔥 Com interesses em **Data** and **Machine learning engineer**
 
 **Working**
 
